@@ -79,4 +79,4 @@ The Deployment Checklist is maintained by Core GovOps. All changes must be submi
 
 ### Agent Spell Reviewer Checklist
 
-The Agent Spell Reviewer Checklist is maintained by the Core Spell Teams. Agent Spell Crafters and Reviewers, including external auditors, are encouraged to extend and improve the checklist as improvements are identified during Spell crafting. Any changes to the content of the checklist are submitted as Pull Requests to this repository and require two (2) approvals, one (1) from each Core Spell Team, before they can be merged.
+Agent Spell Crafters and Reviewers, including external auditors, are encouraged to extend and improve the checklist as improvements are identified during Spell crafting. Any changes to the content of the checklist are submitted as Pull Requests to this repository and require two (2) approvals, one (1) from each Core Spell Team, before they can be merged.
